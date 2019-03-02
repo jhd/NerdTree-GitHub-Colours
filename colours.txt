@@ -1,0 +1,235 @@
+1C Enterprise #814CCC bsl os
+ABAP #E8274B abap
+AGS Script #B9D9FF asc ash
+AMPL #E6EFBB ampl mod
+ANTLR #9DC3FF g4
+API Blueprint #2ACCA8 apib
+APL #5A8164 apl dyalog
+ASP #6a40fd asp asax ascx ashx asmx aspx axd
+ATS #1ac620 dats hats sats
+ActionScript #882B0F as
+Ada #02f88c adb ada ads
+Agda #315665 agda
+Alloy #64C800 als
+AngelScript #C7D7DC as angelscript
+AppleScript #101F1F applescript scpt
+Arc #aa2afe arc
+AspectJ #a957b0 aj
+Assembly #6E4C13 asm a51 inc nasm
+Asymptote #4a0c0c asy
+AutoHotkey #6594b9 ahk ahkl
+AutoIt #1C3552 au3
+Ballerina #FF5000 bal
+Batchfile #C1F12E bat cmd
+BlitzMax #cd6400 bmx
+Boo #d4bec1 boo
+Brainfuck #2F2530 b bf
+C #555555 c cats h idc
+C# #178600 cs cake csx
+C++ #f34b7d cpp c++ cc cp cxx h h++ hh hpp hxx inc inl ino ipp re tcc tpp
+CSS #563d7c css
+Ceylon #dfa535 ceylon
+Chapel #8dc63f chpl
+Cirru #ccccff cirru
+Clarion #db901e clw
+Clean #3F85AF icl dcl
+Click #E4E6F3 click
+Clojure #db5855 clj boot cl2 cljc cljs cljshl cljscm cljx hic
+CoffeeScript #244776 coffee _coffee cake cjsx iced
+ColdFusion #ed2cd6 cfm cfml
+Common Lisp #3fb68b lisp asd cl l lsp ny podsl sexp
+Common Workflow Language #B5314C cwl
+Component Pascal #B0CE4E cp cps
+Crystal #000100 cr
+Cuda #3A4E3A cu cuh
+D #ba595e d di
+DM #447265 dm
+Dart #00B4AB dart
+DataWeave #003a52 dwl
+Dockerfile #384d54 dockerfile
+Dogescript #cca760 djs
+Dylan #6c616e dylan dyl intr lid
+E #ccce35 E
+ECL #8a1267 ecl eclxml
+EQ #a78649 eq
+Eiffel #946d57 e
+Elixir #6e4a7e ex exs
+Elm #60B5CC elm
+Emacs Lisp #c065db el emacs emacsdesktop
+EmberScript #FFF4F3 em emberscript
+Erlang #B83998 erl appsrc es escript hrl xrl yrl
+F# #b845fc fs fsi fsx
+F* #572e30 fst
+FLUX #88ccff fx flux
+Factor #636746 factor
+Fancy #7b9db4 fy fancypack
+Fantom #14253c fan
+Forth #341708 fth 4th f for forth fr frt fs
+Fortran #4d41b1 f90 f f03 f08 f77 f95 for fpp
+FreeMarker #0050b2 ftl
+Frege #00cafe fr
+GDScript #355570 gd
+Game Maker Language #71b417 gml
+Genie #fb855d gs
+Gherkin #5B2063 feature
+Glyph #c1ac7f glf
+Gnuplot #f0a9f0 gp gnu gnuplot plot plt
+Go #00ADD8 go
+Golo #88562A golo
+Gosu #82937f gs gst gsx vark
+Grammatical Framework #79aa7a gf
+Groovy #e69f56 groovy grt gtpl gvy
+HTML #e34c26 html htm htmlhl inc st xht xhtml
+Hack #878787 hh php
+Harbour #0e60e3 hb
+Haskell #5e5086 hs hsc
+Haxe #df7900 hx hxsl
+HiveQL #dce200 q
+Hy #7790B2 hy
+IDL #a3522f pro dlm
+Idris #b30000 idr lidr
+Io #a9188d io
+Ioke #078193 ik
+Isabelle #FEFE00 thy
+J #9EEDFF ijs
+JSONiq #40d47e jq
+Java #b07219 java
+JavaScript #f1e05a js _js bones es es6 frag gs jake jsb jscad jsfl jsm jss mjs njs pac sjs ssjs xsjs xsjslib
+Jolie #843179 ol iol
+Julia #a270ba jl
+Jupyter Notebook #DA5B0B ipynb
+KRL #28430A krl
+Kotlin #F18E33 kt ktm kts
+LFE #4C3023 lfe
+LLVM #185619 ll
+LOLCODE #cc9900 lol
+LSL #3d9970 lsl lslp
+Lasso #999999 lasso las lasso8 lasso9 ldml
+Lex #DBCA00 l lex
+LiveScript #499886 ls _ls
+LookML #652B81 lookml modellkml viewlkml
+Lua #000080 lua fcgi nse p8 pd_lua rbxs wlua
+MATLAB #e16737 matlab m
+MAXScript #00a6a6 ms mcr
+MQL4 #62A8D6 mq4 mqh
+MQL5 #4A76B8 mq5 mqh
+MTML #b7e1f4 mtml
+Makefile #427819 mak d make mk mkfile
+Mask #f97732 mask
+Max #c4a79c maxpat maxhelp maxproj mxt pat
+Mercury #ff2b2b m moo
+Metal #8f14e9 metal
+Mirah #c7a938 druby duby mirah
+Modula-3 #223388 i3 ig m3 mg
+NCL #28431f ncl
+Nearley #990000 ne nearley
+Nemerle #3d3c6e n
+NetLinx #0aa0ff axs axi
+NetLinx+ERB #747faa axserb axierb
+NetLogo #ff6375 nlogo
+NewLisp #87AED7 nl lisp lsp
+Nextflow #3ac486 nf
+Nim #37775b nim nimcfg nimble nimrod nims
+Nit #009917 nit
+Nix #7e7eff nix
+Nu #c9df40 nu
+OCaml #3be133 ml eliom eliomi ml4 mli mll mly
+Objective-C #438eff m h
+Objective-C++ #6866fb mm
+Objective-J #ff0c5a j sj
+Omgrofl #cabbff omgrofl
+Opal #f7ede0 opal
+Oxygene #cdd0e3 oxygene
+Oz #fab738 oz
+P4 #7055b5 p4
+PHP #4F5D95 php aw ctp fcgi inc php3 php4 php5 phps phpt
+PLSQL #dad8d8 pls bdy ddl fnc pck pkb pks plb plsql prc spc sql tpb tps trg vw
+Pan #cc0000 pan
+Papyrus #6600cc psc
+Parrot #f3ca0a parrot
+Pascal #E3F171 pas dfm dpr inc lpr pascal pp
+Pawn #dbb284 pwn inc
+Pep8 #C76F5B pep
+Perl #0298c3 pl al cgi fcgi perl ph plx pm psgi t
+Perl 6 #0000fb 6pl 6pm nqp p6 p6l p6m pl pl6 pm pm6 t
+PigLatin #fcd7de pig
+Pike #005390 pike pmod
+PogoScript #d80074 pogo
+PostScript #da291c ps eps pfa
+PowerBuilder #8f0f8d pbt sra sru srw
+PowerShell #012456 ps1 psd1 psm1
+Processing #0096D8 pde
+Prolog #74283c pl pro prolog yap
+Propeller Spin #7fa2a7 spin
+Puppet #302B6D pp
+PureBasic #5a6986 pb pbi
+PureScript #1D222D purs
+Python #3572A5 py bzl cgi fcgi gyp gypi lmi py3 pyde pyi pyp pyt pyw rpy spec tac wsgi xpy
+QML #44a51c qml qbs
+R #198CE7 r rd rsx
+RAML #77d9fb raml
+RUNOFF #665a4e rnh rno
+Racket #3c5caa rkt rktd rktl scrbl
+Ragel #9d5200 rl
+Rascal #fffaa0 rsc
+Rebol #358a5b reb r r2 r3 rebol
+Red #f50000 red reds
+RenPy #ff7f7f rpy
+Ring #2D54CB ring
+Roff #ecdebe roff 1 1in 1m 1x 2 3 3in 3m 3p 3pm 3qt 3x 4 5 6 7 8 9 l man mdoc me ms n nr rno tmac
+Rouge #cc0088 rg
+Ruby #701516 rb builder eye fcgi gemspec god jbuilder mspec pluginspec podspec rabl rake rbuild rbw rbx ru ruby spec thor watchr
+Rust #dea584 rs rsin
+SAS #B34936 sas
+SQF #3F3F3F sqf hqf
+SRecode Template #348a34 srt
+SaltStack #646464 sls
+Scala #c22d40 scala kojo sbt sc
+Scheme #1e4aec scm sch sld sls sps ss
+Self #0579aa self
+Shell #89e051 sh bash bats cgi command fcgi ksh shin tmux tool zsh
+Shen #120F14 shen
+Slash #007eff sl
+Slice #003fa2 ice
+Smalltalk #596706 st cs
+SourcePawn #5c7611 sp inc sma
+Squirrel #800000 nut
+Stan #b2011d stan
+Standard ML #dc566d ML fun sig sml
+SuperCollider #46390b sc scd
+Swift #ffac45 swift
+SystemVerilog #DAE1C2 sv svh vh
+TI Program #A0AA87 8xp 8xk 8xktxt 8xptxt
+Tcl #e4cc98 tcl adp tm
+TeX #3D6117 tex aux bbx bib cbx cls dtx ins lbx ltx mkii mkiv mkvi sty toc
+Terra #00004c t
+Turing #cf142b t tu
+TypeScript #2b7489 ts tsx
+UnrealScript #a54c4d uc
+VCL #148AA8 vcl
+VHDL #adb2cb vhdl vhd vhf vhi vho vhs vht vhw
+Vala #fbe5cd vala vapi
+Verilog #b2b7f8 v veo
+Vim script #199f4b vim vba vmb
+Visual Basic #945db7 vb bas cls frm frx vba vbhtml vbs
+Volt #1F1F1F volt
+Vue #2c3e50 vue
+WebAssembly #04133b wast wat
+X10 #4B6BEF x10
+XC #99DA07 xc
+XQuery #5232e7 xquery xq xql xqm xqy
+XSLT #EB8CEB xslt xsl
+YARA #220000 yar yara
+YASnippet #32AB90 yasnippet
+Yacc #4B6C4B y yacc yy
+Zephir #118f9e zep
+Zig #ec915c zig
+eC #913960 ec eh
+mcfunction #E22837 mcfunction
+nesC #94B0C7 nc
+ooc #b0b77e ooc
+q #0040cd q
+sed #64b970 sed
+wdl #42f1f4 wdl
+wisp #7582D1 wisp
+xBase #403a40 prg ch prw
