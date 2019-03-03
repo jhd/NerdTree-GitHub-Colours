@@ -1,9 +1,9 @@
-1C Enterprise #814CCC bsl os
+1CEnterprise #814CCC bsl os
 ABAP #E8274B abap
-AGS Script #B9D9FF asc ash
+AGSScript #B9D9FF asc ash
 AMPL #E6EFBB ampl mod
 ANTLR #9DC3FF g4
-API Blueprint #2ACCA8 apib
+APIBlueprint #2ACCA8 apib
 APL #5A8164 apl dyalog
 ASP #6a40fd asp asax ascx ashx asmx aspx axd
 ATS #1ac620 dats hats sats
@@ -37,9 +37,9 @@ Click #E4E6F3 click
 Clojure #db5855 clj boot cl2 cljc cljs cljshl cljscm cljx hic
 CoffeeScript #244776 coffee _coffee cake cjsx iced
 ColdFusion #ed2cd6 cfm cfml
-Common Lisp #3fb68b lisp asd cl l lsp ny podsl sexp
-Common Workflow Language #B5314C cwl
-Component Pascal #B0CE4E cp cps
+CommonLisp #3fb68b lisp asd cl l lsp ny podsl sexp
+CommonWorkflowLanguage #B5314C cwl
+ComponentPascal #B0CE4E cp cps
 Crystal #000100 cr
 Cuda #3A4E3A cu cuh
 D #ba595e d di
@@ -55,7 +55,7 @@ EQ #a78649 eq
 Eiffel #946d57 e
 Elixir #6e4a7e ex exs
 Elm #60B5CC elm
-Emacs Lisp #c065db el emacs emacsdesktop
+EmacsLisp #c065db el emacs emacsdesktop
 EmberScript #FFF4F3 em emberscript
 Erlang #B83998 erl appsrc es escript hrl xrl yrl
 F# #b845fc fs fsi fsx
@@ -69,7 +69,7 @@ Fortran #4d41b1 f90 f f03 f08 f77 f95 for fpp
 FreeMarker #0050b2 ftl
 Frege #00cafe fr
 GDScript #355570 gd
-Game Maker Language #71b417 gml
+GameMakerLanguage #71b417 gml
 Genie #fb855d gs
 Gherkin #5B2063 feature
 Glyph #c1ac7f glf
@@ -77,7 +77,7 @@ Gnuplot #f0a9f0 gp gnu gnuplot plot plt
 Go #00ADD8 go
 Golo #88562A golo
 Gosu #82937f gs gst gsx vark
-Grammatical Framework #79aa7a gf
+GrammaticalFramework #79aa7a gf
 Groovy #e69f56 groovy grt gtpl gvy
 HTML #e34c26 html htm htmlhl inc st xht xhtml
 Hack #878787 hh php
@@ -97,7 +97,7 @@ Java #b07219 java
 JavaScript #f1e05a js _js bones es es6 frag gs jake jsb jscad jsfl jsm jss mjs njs pac sjs ssjs xsjs xsjslib
 Jolie #843179 ol iol
 Julia #a270ba jl
-Jupyter Notebook #DA5B0B ipynb
+JupyterNotebook #DA5B0B ipynb
 KRL #28430A krl
 Kotlin #F18E33 kt ktm kts
 LFE #4C3023 lfe
@@ -151,7 +151,7 @@ Pascal #E3F171 pas dfm dpr inc lpr pascal pp
 Pawn #dbb284 pwn inc
 Pep8 #C76F5B pep
 Perl #0298c3 pl al cgi fcgi perl ph plx pm psgi t
-Perl 6 #0000fb 6pl 6pm nqp p6 p6l p6m pl pl6 pm pm6 t
+Perl6 #0000fb 6pl 6pm nqp p6 p6l p6m pl pl6 pm pm6 t
 PigLatin #fcd7de pig
 Pike #005390 pike pmod
 PogoScript #d80074 pogo
@@ -160,7 +160,7 @@ PowerBuilder #8f0f8d pbt sra sru srw
 PowerShell #012456 ps1 psd1 psm1
 Processing #0096D8 pde
 Prolog #74283c pl pro prolog yap
-Propeller Spin #7fa2a7 spin
+PropellerSpin #7fa2a7 spin
 Puppet #302B6D pp
 PureBasic #5a6986 pb pbi
 PureScript #1D222D purs
@@ -182,7 +182,7 @@ Ruby #701516 rb builder eye fcgi gemspec god jbuilder mspec pluginspec podspec r
 Rust #dea584 rs rsin
 SAS #B34936 sas
 SQF #3F3F3F sqf hqf
-SRecode Template #348a34 srt
+SRecodeTemplate #348a34 srt
 SaltStack #646464 sls
 Scala #c22d40 scala kojo sbt sc
 Scheme #1e4aec scm sch sld sls sps ss
@@ -195,11 +195,11 @@ Smalltalk #596706 st cs
 SourcePawn #5c7611 sp inc sma
 Squirrel #800000 nut
 Stan #b2011d stan
-Standard ML #dc566d ML fun sig sml
+StandardML #dc566d ML fun sig sml
 SuperCollider #46390b sc scd
 Swift #ffac45 swift
 SystemVerilog #DAE1C2 sv svh vh
-TI Program #A0AA87 8xp 8xk 8xktxt 8xptxt
+TIProgram #A0AA87 8xp 8xk 8xktxt 8xptxt
 Tcl #e4cc98 tcl adp tm
 TeX #3D6117 tex aux bbx bib cbx cls dtx ins lbx ltx mkii mkiv mkvi sty toc
 Terra #00004c t
@@ -210,8 +210,8 @@ VCL #148AA8 vcl
 VHDL #adb2cb vhdl vhd vhf vhi vho vhs vht vhw
 Vala #fbe5cd vala vapi
 Verilog #b2b7f8 v veo
-Vim script #199f4b vim vba vmb
-Visual Basic #945db7 vb bas cls frm frx vba vbhtml vbs
+Vimscript #199f4b vim vba vmb
+VisualBasic #945db7 vb bas cls frm frx vba vbhtml vbs
 Volt #1F1F1F volt
 Vue #2c3e50 vue
 WebAssembly #04133b wast wat
