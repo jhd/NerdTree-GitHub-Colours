@@ -2,17 +2,21 @@
 
 Highlight files in NerdTree using their GitHub colour.
 
-![](/screenshots/dark.png")
-![](/screenshots/light.png")
-
 ### How to use:
 * Save `nerdtree-github-colours.vim` file in your `~/.vim/colors/`.
 * Add `source ~/.vim/colors/nerdtree-github-colours.vim` to your `.vimrc`.
 * Enable any non-default extensions you use. (Make sure to uncomment both the syn match line and the hightlight line).
 
-### FAQ
-#### Why aren't all of the colours enabled by default?
+### Screenshots
 
+![](/screenshots/dark.png)
+![](/screenshots/light.png)
+
+### FAQ
+#### How does this handle term colours (8-bit)?
+I use an 8-bit approximation of the RGB colours. The results are very similar.
+
+#### Why aren't all of the colours enabled by default?
 Vim's highlighting can't really handle more than 70 extensions without lagging horribly, and GitHub supports 644 extensions. Seriously there are like 30 different lisp extensions. I just enabled the most common ones by default. 
 
 #### Why are some colours hard to read on a dark background?
