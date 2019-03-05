@@ -26,4 +26,4 @@ GitHub's colours were made for display on the white background of their site, so
 Disable (comment) some of the extensions, both the syn match line and the highlight line.
 
 #### My extension isn't highlighted.
-Check that the extension is enabled in the `nerdtree-github-colours.vim` file. If its not there at all GitHub doesn't recognise your extension, you can raise it with the [here](https://github.com/github/linguist/blob/master/CONTRIBUTING.md#adding-an-extension-to-a-language).
+Check that the extension is enabled in the `nerdtree-github-colours.vim` file. If its not there at all GitHub doesn't recognise your extension, you can raise it with them [here](https://github.com/github/linguist/blob/master/CONTRIBUTING.md#adding-an-extension-to-a-language).
